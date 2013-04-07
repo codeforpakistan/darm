@@ -15,7 +15,3 @@
     mysql_select_db($db);
 ?>
 <h1>Disaster and Relief Management System</h1>
-
-<?php
-	echo "Username: " . $username . " Password: " . $password;
-?>
